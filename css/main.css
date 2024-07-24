@@ -21,34 +21,33 @@
 p{
     margin:5px 3px;
     color: grey;
+    float:left;
 }
 img{
     width:100%;
     margin-bottom: 3px ;
 }
 #price1{
-    float:left;
+    /* float:left; */
     color:green;
-   
     
-
 }
 #price2{
     font-size:13px;
     color:red;
-   
-
+    text-decoration-line:line-through;
+    
 }
 .cart{
     text-align: center;
     font-size:13px;
+    font-weight: 200px;
     margin-right:1px;
     width:160px;
     height:30px;
     background-color: #007bff;
     color: white;
     border:none;
-
 }
 .heart{
     border:1px #007bff solid;
