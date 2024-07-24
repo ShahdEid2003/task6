@@ -1,0 +1,62 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+.iphone-section{
+    margin-left :150px;
+    padding:10px;
+}
+.iphone{
+    margin:10px ;
+}
+.iphone-9{
+    float:left;
+    width:200px;
+    font-size:15px;
+    margin: 10px ;
+    padding: 10px;
+    border: 1px rgb(231, 228, 228) solid;
+}
+p{
+    margin:5px 3px;
+    color: grey;
+}
+img{
+    width:100%;
+    margin-bottom: 3px ;
+}
+#price1{
+    float:left;
+    color:green;
+   
+    
+
+}
+#price2{
+    font-size:13px;
+    color:red;
+   
+
+}
+.cart{
+    text-align: center;
+    font-size:13px;
+    margin-right:1px;
+    width:160px;
+    height:30px;
+    background-color: #007bff;
+    color: white;
+    border:none;
+
+}
+.heart{
+    border:1px #007bff solid;
+    padding:5px;
+    color:#007bff;
+    background-color: white;
+}
+
+.clearfix{
+    clear: left;
+}
